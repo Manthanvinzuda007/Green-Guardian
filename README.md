@@ -82,6 +82,6 @@ Password:User1234
 
 ## Contribution
 
-- Frontend:Manthan Vizuda
-- Game:Utsav laheru
-
+- Frontend:[Manthan Vizuda](https://github.com/Manthanvinzuda007)
+- Game:[Utsav laheru
+](https://github.com/UtsavLaheru)
